@@ -138,7 +138,6 @@ img{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  animation-timeline: view();
 }
 
 .about>div{
@@ -152,7 +151,6 @@ img{
   border: 1px solid rgba(255, 255, 255, 0.07);
   box-shadow: 1px 1px rgba(255, 255, 255, 0.062);
   animation: glass 2s ease-in 0s forwards;
-  animation-timeline: view();
 }
 
 .about>div>h1{
