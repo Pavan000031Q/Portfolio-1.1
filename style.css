@@ -217,7 +217,7 @@ body,html{
     grid-column-start: 2;
     grid-column-end: 7;
     grid-row-start: 4;
-    grid-row-end: 10;
+    grid-row-end: 11;
     z-index: 2;
     font-size: 5.5vw;
     padding: 0px;
@@ -230,7 +230,7 @@ body,html{
     grid-row-end: 7;
     z-index: 2;
     padding: 0px;
-    padding-top: 65px;
+    padding-top: 70px;
   }
 
   .social-media-nav>a{
