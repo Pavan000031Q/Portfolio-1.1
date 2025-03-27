@@ -217,7 +217,7 @@ body,html{
     grid-column-start: 2;
     grid-column-end: 7;
     grid-row-start: 4;
-    grid-row-end: 9;
+    grid-row-end: 10;
     z-index: 2;
     font-size: 5.5vw;
     padding: 0px;
@@ -230,7 +230,7 @@ body,html{
     grid-row-end: 7;
     z-index: 2;
     padding: 0px;
-    padding-top: 60px;
+    padding-top: 65px;
   }
 
   .social-media-nav>a{
@@ -255,7 +255,7 @@ body,html{
   .float-btn{
     height: 10vw;
     width: 10vw;
-    z-index: 2;
+    z-index: 5;
     position: fixed;
     top: 20px ;
     right: 20px;
